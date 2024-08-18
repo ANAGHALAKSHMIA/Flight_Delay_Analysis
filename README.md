@@ -6,15 +6,11 @@ The primary goal of the Flight Delay Analysis project is to identify and underst
 
 ### **Purpose:**
 
-1. **Identify Delay Patterns:** 
-
-2. **Understand Contributing Factors:** 
-
-3. **Optimize Operations:** 
-
-4. **Enhance Passenger Experience:** 
-
-5. **Support Decision Making:** 
+1. **Identify Key Delay Patterns**
+2. **Understand Impactful Contributing Factors**
+3. **Optimize Operational Schedules**
+4. **Enhance Passenger Experience through Proactive Measures**
+5. **Support Strategic Decision Making with Data-Driven Insights**
 
 By addressing these objectives, the project aims to enhance overall flight performance, improve punctuality, and create a more efficient and reliable air travel experience.
 
