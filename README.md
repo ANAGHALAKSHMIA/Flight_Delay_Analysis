@@ -12,5 +12,5 @@ The primary goal of the Flight Delay Analysis project is to identify and underst
 4. **Enhance Passenger Experience through Proactive Measures**
 5. **Support Strategic Decision Making with Data-Driven Insights**
 
-By addressing these objectives, the project aims to enhance overall flight performance, improve punctuality, and create a more efficient and reliable air travel experience.
+By addressing these objectives and refining the model, the project aims to enhance overall flight performance, improve punctuality, and create a more efficient and reliable air travel experience.
 
